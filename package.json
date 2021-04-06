@@ -1,0 +1,11 @@
+{
+  "name": "distroless-node",
+  "version": "1.0.0",
+  "description": "Distroless example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esneko/distroless-node.git"
+  },
+  "author": "esneko",
+  "license": "ISC"
+}
